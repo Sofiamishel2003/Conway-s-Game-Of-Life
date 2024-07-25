@@ -95,3 +95,4 @@ impl Framebuffer {
         &self.buffer
     }
 }
+
